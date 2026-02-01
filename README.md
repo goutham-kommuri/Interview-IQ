@@ -1,6 +1,8 @@
 # 🎯 InterviewIQ
 
 **The AI-Powered Mock Interview Platform**
+## 🎥 Demo Video
+[Watch the live working demo](https://drive.google.com/file/d/1LvyOkQ4hu2ZrQpvPgwmZLxllJ0NjpNNv/view)
 
 A comprehensive AI interviewer platform that simulates real-world interviews, evaluates candidates objectively, and provides detailed performance feedback.
 
