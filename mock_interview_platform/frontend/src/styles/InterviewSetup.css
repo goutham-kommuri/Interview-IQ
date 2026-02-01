@@ -1,0 +1,23 @@
+.setup-container {
+  max-width: 700px;
+}
+
+.setup-container form {
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+}
+
+.setup-container .form-group:last-of-type {
+  margin-bottom: 30px;
+}
+
+.setup-container .btn-primary {
+  margin-top: 20px;
+}
+
+@media (max-width: 768px) {
+  .setup-container {
+    padding: 20px;
+  }
+}
